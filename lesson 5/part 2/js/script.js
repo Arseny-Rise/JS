@@ -1,0 +1,17 @@
+clsBtn = document.getElementById('open-btn');
+clsName = document.getElementsByClassName('name-value')[0];
+clsBudget = document.getElementsByClassName('budget-value')[0];
+clsGoods = document.getElementsByClassName('goods-value')[0];
+clsItems = document.getElementsByClassName('items-value')[0];
+clsEmployers = document.getElementsByClassName('employers-value')[0];
+clsDiscount = document.getElementsByClassName('discount-value')[0];
+clsIsOpen = document.getElementsByClassName('isopen-value')[0];
+clsGoodsItem1 = document.getElementsByClassName('goods-item')[0];
+clsGoodsItem2 = document.getElementsByClassName('goods-item')[1];
+clsGoodsItem3 = document.getElementsByClassName('goods-item')[2];
+clsGoodsItem4 = document.getElementsByClassName('goods-item')[3];
+BtnGoods = document.getElementsByTagName('button')[0];
+BtnBudget = document.getElementsByTagName('button')[1];
+BtnEmployers = document.getElementsByTagName('button')[2];
+inputTime = document.querySelector('input > type="items"');
+console.log(inputTime);
